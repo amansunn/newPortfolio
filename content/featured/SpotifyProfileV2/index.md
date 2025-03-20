@@ -1,9 +1,9 @@
 ---
 date: '3'
 title: 'Build a Spotify Connected App'
-cover: './course-card.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+cover: './3.png'
+external: 'https://amansunn.vercel.app/'
+cta: 'https://amansunn.vercel.app/'
 tech:
   - React
   - Express

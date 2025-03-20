@@ -1,9 +1,9 @@
 ---
 date: '2'
 title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+cover: './2.png'
+github: 'https://github.com/amansunn/mern-estate'
+external: 'https://mern-estate-w9kt.onrender.com/'
 tech:
   - React
   - Styled Components
